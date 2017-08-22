@@ -96,7 +96,7 @@ end
 
 # List of gems to install globally
 def gems
-	%w{gpgenv ion-client pry}
+	%w{gpgenv ion-client pry bundler}
 end
 
 def run(cmd)
